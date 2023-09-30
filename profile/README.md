@@ -5,14 +5,7 @@
 ### About Us
 At Team Tonic, we're not your average tech team. We're a group of passionate engineers and AI enthusiasts who are dedicated to pushing the boundaries of what autonomous agents can achieve. Our mission? To build AI-powered bots that not only crush performance benchmarks but also outperform anything you've ever seen before. 
 
-### What We Do
-- 🤯 Pushing the Limits: We thrive on challenges. We tackle complex problems head-on and consistently aim to outperform existing benchmarks.
-- 🤖 Building Autonomous Agents: Our focus is on developing state-of-the-art autonomous agents that can learn, adapt, and excel in various tasks.
-- 🌐 Open Source Advocates: We believe in the power of open-source collaboration. Our projects are available for everyone to explore, use, and contribute to.
-
-## Our Projects
-
-### Part 1: Improve Auto-Gpt - Priority area for improvements:
+## Part 1: Improve Auto-Gpt - Priority area for improvements:
 
 - Improve 🤖autoreply using 🛺autogen library
 - 🤹🏻‍♀️multimodal input
@@ -26,7 +19,7 @@ At Team Tonic, we're not your average tech team. We're a group of passionate eng
 - 🧠 More Popular: It's more fun for folks when they can get multimedia and use cameras , mics, and multifile input.
 - 💬 Decision Support: Autogpt should be useful to its user to make real world decisions.
 
-### Project 2: Evaluation Environment
+## Project 2: Evaluation Environment
 
 - 🌐 Following the Guidelines
 - 🤓 Testing Autogpt next to community agents
