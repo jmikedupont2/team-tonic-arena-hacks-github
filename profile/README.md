@@ -47,7 +47,7 @@ Want to be part of our journey or have questions about our projects? Join our Di
 Don't miss out on our latest developments and announcements. Follow us on GitHub and Twitter!
 
 [![Discord](https://img.shields.io/discord/1109943800132010065)](https://discord.gg/zs6GDQKFep)
-[![Follow on GitHub](https://img.shields.io/github/followers/team-tonic-hacks?label=Follow%20on%20GitHub&style=social)](https://github.com/lablab-autogpt/)
+[![Follow on GitHub](https://img.shields.io/github/followers/team-tonic-arena-hacks?label=Follow%20on%20GitHub&style=social)](https://github.com/team-tonic-arena-hacks/)
 [![Follow on Twitter](https://img.shields.io/twitter/follow/josephpollack?label=Follow%20on%20Twitter&style=social)](https://twitter.com/josephpollack)
 
 ### Thank you for joining us on this exciting journey of innovation and discovery! Together, we'll redefine what's possible in the world of AI. 🚀🤖
