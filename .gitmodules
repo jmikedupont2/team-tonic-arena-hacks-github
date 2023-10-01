@@ -1,0 +1,36 @@
+[submodule "AutoGPT"]
+	path = AutoGPT
+	url = https://github.com/team-tonic-arena-hacks/AutoGPT
+[submodule "AutoGen-Example-Scripts"]
+	path = AutoGen-Example-Scripts
+	url = https://github.com/team-tonic-arena-hacks/AutoGen-Example-Scripts
+[submodule "autogen"]
+	path = autogen
+	url = https://github.com/team-tonic-arena-hacks/autogen
+[submodule ".github"]
+	path = .github
+	url = https://github.com/team-tonic-arena-hacks/.github
+[submodule "braintrust-sdk"]
+	path = braintrust-sdk
+	url = https://github.com/team-tonic-arena-hacks/braintrust-sdk
+[submodule "gradio"]
+	path = gradio
+	url = https://github.com/team-tonic-arena-hacks/gradio
+[submodule "next.js"]
+	path = next.js
+	url = https://github.com/team-tonic-arena-hacks/next.js
+[submodule "chat-ui"]
+	path = chat-ui
+	url = https://github.com/team-tonic-arena-hacks/chat-ui
+[submodule "outlines"]
+	path = outlines
+	url = https://github.com/team-tonic-arena-hacks/outlines
+[submodule "ai-chatbot"]
+	path = ai-chatbot
+	url = https://github.com/team-tonic-arena-hacks/ai-chatbot
+[submodule "babyagi-ui"]
+	path = babyagi-ui
+	url = https://github.com/team-tonic-arena-hacks/babyagi-ui
+[submodule "Auto-GPT-Forge"]
+	path = Auto-GPT-Forge
+	url = https://github.com/team-tonic-arena-hacks/Auto-GPT-Forge
