@@ -34,3 +34,90 @@
 [submodule "Auto-GPT-Forge"]
 	path = Auto-GPT-Forge
 	url = https://github.com/team-tonic-arena-hacks/Auto-GPT-Forge
+[submodule "meta-introspector/Inspirationals"]
+	path = meta-introspector/Inspirationals
+	url = https://github.com/meta-introspector/Inspirationals
+[submodule "meta-introspector/act"]
+	path = meta-introspector/act
+	url = https://github.com/meta-introspector/act
+[submodule "meta-introspector/Auto-GPT"]
+	path = meta-introspector/Auto-GPT
+	url = https://github.com/meta-introspector/Auto-GPT
+[submodule "meta-introspector/lollms"]
+	path = meta-introspector/lollms
+	url = https://github.com/meta-introspector/lollms
+[submodule "meta-introspector/lollms_bindings_zoo"]
+	path = meta-introspector/lollms_bindings_zoo
+	url = https://github.com/meta-introspector/lollms_bindings_zoo
+[submodule "meta-introspector/LocalAI"]
+	path = meta-introspector/LocalAI
+	url = https://github.com/meta-introspector/LocalAI
+[submodule "meta-introspector/model-gallery"]
+	path = meta-introspector/model-gallery
+	url = https://github.com/meta-introspector/model-gallery
+[submodule "meta-introspector/ggml"]
+	path = meta-introspector/ggml
+	url = https://github.com/meta-introspector/ggml
+[submodule "meta-introspector/lollms_personalities_zoo"]
+	path = meta-introspector/lollms_personalities_zoo
+	url = https://github.com/meta-introspector/lollms_personalities_zoo
+[submodule "meta-introspector/supabase"]
+	path = meta-introspector/supabase
+	url = https://github.com/meta-introspector/supabase
+[submodule "meta-introspector/helicone"]
+	path = meta-introspector/helicone
+	url = https://github.com/meta-introspector/helicone
+[submodule "meta-introspector/https-streamlit.io-community-llm-hackathon-2023"]
+	path = meta-introspector/https-streamlit.io-community-llm-hackathon-2023
+	url = https://github.com/meta-introspector/https-streamlit.io-community-llm-hackathon-2023
+[submodule "meta-introspector/streamlit-server-state"]
+	path = meta-introspector/streamlit-server-state
+	url = https://github.com/meta-introspector/streamlit-server-state
+[submodule "meta-introspector/meta-meme"]
+	path = meta-introspector/meta-meme
+	url = https://github.com/meta-introspector/meta-meme
+[submodule "meta-introspector/text-split-explorer"]
+	path = meta-introspector/text-split-explorer
+	url = https://github.com/meta-introspector/text-split-explorer
+[submodule "meta-introspector/data"]
+	path = meta-introspector/data
+	url = https://github.com/meta-introspector/data
+[submodule "meta-introspector/clarifai-introspector"]
+	path = meta-introspector/clarifai-introspector
+	url = https://github.com/meta-introspector/clarifai-introspector
+[submodule "meta-introspector/setup-python"]
+	path = meta-introspector/setup-python
+	url = https://github.com/meta-introspector/setup-python
+[submodule "meta-introspector/https-lablab.ai-event-audiocraft-24-hours-hackathon"]
+	path = meta-introspector/https-lablab.ai-event-audiocraft-24-hours-hackathon
+	url = https://github.com/meta-introspector/https-lablab.ai-event-audiocraft-24-hours-hackathon
+[submodule "meta-introspector/encodec"]
+	path = meta-introspector/encodec
+	url = https://github.com/meta-introspector/encodec
+[submodule "meta-introspector/introspector-streamlit-agraph-component"]
+	path = meta-introspector/introspector-streamlit-agraph-component
+	url = https://github.com/meta-introspector/introspector-streamlit-agraph-component
+[submodule "meta-introspector/.github"]
+	path = meta-introspector/.github
+	url = https://github.com/meta-introspector/.github
+[submodule "meta-introspector/AutoGPTQ"]
+	path = meta-introspector/AutoGPTQ
+	url = https://github.com/meta-introspector/AutoGPTQ
+[submodule "meta-introspector/audiocraft"]
+	path = meta-introspector/audiocraft
+	url = https://github.com/meta-introspector/audiocraft
+[submodule "meta-introspector/https-lablab.ai-event-stablecode-24-hours-hackathon"]
+	path = meta-introspector/https-lablab.ai-event-stablecode-24-hours-hackathon
+	url = https://github.com/meta-introspector/https-lablab.ai-event-stablecode-24-hours-hackathon
+[submodule "meta-introspector/generators"]
+	path = meta-introspector/generators
+	url = https://github.com/meta-introspector/generators
+[submodule "meta-introspector/azure-cli"]
+	path = meta-introspector/azure-cli
+	url = https://github.com/meta-introspector/azure-cli
+[submodule "meta-introspector/ai-ticket"]
+	path = meta-introspector/ai-ticket
+	url = https://github.com/jmikedupont2/ai-ticket/
+[submodule "meta-introspector/https-lablab.ai-event-llama-2-hackathon-with-clarifai-introspector"]
+	path = meta-introspector/https-lablab.ai-event-llama-2-hackathon-with-clarifai-introspector
+	url = https://github.com/jmikedupont2/https-lablab.ai-event-llama-2-hackathon-with-clarifai-introspector
